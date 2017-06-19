@@ -1,4 +1,4 @@
-# GitHub Scorer
+# GitHub Username Events Scorer
 Calculates a score for a given user based on points asssigned to the type of events
 
 | Event | Score |
@@ -13,7 +13,7 @@ Calculates a score for a given user based on points asssigned to the type of eve
 
 ## Installation
 - Clone the repository
-- cd github-username-events-score
+- cd github-username-events-scorer
 - `npm install` or `yarn`
 
 ## Usage
